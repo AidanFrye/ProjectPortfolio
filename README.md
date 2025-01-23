@@ -1,2 +1,2 @@
 # ProjectPortfolio
-Portfolio of projects that I have completed for coursework. 
+Portfolio of work that I have completed for coursework or as part of other projects. 
