@@ -4,7 +4,7 @@
   - GitHub - https://github.com/JoshuaSerpico/ShroomSmash  
     - Smushrooms was created as a collaborative effort with a team in 3 days for the Cozy Fall Jam 2025  
 
-**Wired Lyre** - Programmer (Dialogue, Rhythm, Systems Integration)
+**Wired Lyre** - Programmer (UI, Dialogue, Rhythm, Systems Integration)
   - Itch Page - https://fr3nchfry3.itch.io/wired-lyre
   - GitHub - https://github.com/bernaaaaard/OrpheusGame
     - Wired Lyre was created as an entry into the Jamscepticeye 2025. The project has since moved to Godot for further development
