@@ -15,7 +15,7 @@ I am credited as Fr3nchFry3 on all collaborative projects.
   - GitHub - https://github.com/bernaaaaard/OrpheusGame
     - Wired Lyre was created as an entry into the Jamscepticeye 2025. The project has since moved to Godot for further development
 
-  # Personal Projects
-  **Unnamed CardRPG**  
-    - Developing card system and turn-based combat system for a fantasy RPG  
-    - GitHub - https://github.com/AidanFrye/CardRPG
+# Personal Projects
+**Unnamed CardRPG**  
+  - Developing card system and turn-based combat system for a fantasy RPG  
+  - GitHub - https://github.com/AidanFrye/CardRPG
