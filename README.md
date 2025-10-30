@@ -1,7 +1,7 @@
 # Collaborative Projects
 Smushrooms - Programmer (UI, Animations, Game States, Audio Integration)
-  Itch Page - https://magzimm.itch.io/smushrooms
-  GitHub - https://github.com/JoshuaSerpico/ShroomSmash 
+  \nItch Page - https://magzimm.itch.io/smushrooms
+  \nGitHub - https://github.com/JoshuaSerpico/ShroomSmash 
 
 Smushrooms was created as a collaborative effort with a team in 3 days for the Cozy Fall Jam 2025
 
