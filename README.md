@@ -1,3 +1,9 @@
+
+# Project Portfolio - See Below 
+Here is a portfolio of the work that I have created, either for a class or for a project of my own.  
+I am credited as Fr3nchFry3 on all collaborative projects.
+
+
 # Collaborative Projects
 **Smushrooms** - Programmer (UI, Animations, Game States, Audio Integration)  
   - Itch Page - https://magzimm.itch.io/smushrooms  
@@ -9,8 +15,7 @@
   - GitHub - https://github.com/bernaaaaard/OrpheusGame
     - Wired Lyre was created as an entry into the Jamscepticeye 2025. The project has since moved to Godot for further development
 
-
-
-# Project Portfolio  
-Here is a portfolio of the work that I have created, either for a class or for a project of my own.  
-I am credited as Fr3nchFry3 on all collaborative projects.
+  # Personal Projects
+  **Unnamed CardRPG**
+    - Developed card system and turn-based combat system for a fantasy RPG
+    - GitHub - 
