@@ -17,5 +17,5 @@ I am credited as Fr3nchFry3 on all collaborative projects.
 
   # Personal Projects
   **Unnamed CardRPG**
-    - Developed card system and turn-based combat system for a fantasy RPG
-    - GitHub - 
+    - Developing card system and turn-based combat system for a fantasy RPG
+    - GitHub - https://github.com/AidanFrye/CardRPG
