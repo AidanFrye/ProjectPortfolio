@@ -19,6 +19,7 @@ I am credited as Fr3nchFry3 on all collaborative projects.
   - Boomer Shooter + Roguelike currently being developed in Godot by the team behind Wired Lyre.
 
 # Personal Projects
-**Unnamed CardRPG**  
-  - Developing card system and turn-based combat system for a fantasy RPG  
+**Unnamed CardRPG**  - Gameplay Programmer + Designer
+  - Developing card system and turn-based combat system for a fantasy RPG
+  - Key concept involves the use of a queue to time actions in a set order (inspired by oriflamme). 
   - GitHub - https://github.com/AidanFrye/CardRPG
