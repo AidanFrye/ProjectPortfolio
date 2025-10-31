@@ -15,7 +15,7 @@ I am credited as Fr3nchFry3 on all collaborative projects.
     - Wired Lyre was created as an entry into the Jamscepticeye 2025.
     - Issues with overscoping were identified in a post-jam team review, and the project is being recreated in Godot after the team gets more experience.
    
-**Alone I Rise** - Gameplay Programmer (Camera, Player movement, Player attacking)
+**Alone I Rise** - Gameplay Programmer (Camera, Player Movement, Player Attacking)
   - Boomer Shooter + Roguelike currently being developed in Godot by the team behind Wired Lyre.
 
 # Personal Projects
