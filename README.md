@@ -23,3 +23,9 @@ I am credited as Fr3nchFry3 on all collaborative projects.
   - Developing card system and turn-based combat system for a fantasy RPG
   - Key concept involves the use of a queue to time actions in a set order (inspired by oriflamme). 
   - GitHub - https://github.com/AidanFrye/CardRPG
+
+**3D Physics-Based Multiplayer Game** - Gameplay Programmer + Designer
+  - Developed system for a 3D multiplayer game in Unity
+  - Networking with Unity NGO, Animations and models with Mixamo
+  - Github - https://github.com/AidanFrye/3DTestIDK
+
